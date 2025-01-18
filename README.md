@@ -44,6 +44,12 @@ This will create an optimized build in the `dist` directory.
 - ESLint integration
 - Fast Refresh with Babel or SWC
 
+## Login-Credentials
+
+- username :- test_username
+- password :- test_password
+
+
 ## Technologies Used
 
 - [React](https://reactjs.org/)
